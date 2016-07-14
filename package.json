@@ -1,6 +1,6 @@
 {
   "name": "is-touch",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Checks if we're running in a touch-enabled context",
   "main": "lib/index.js",
   "scripts": {
