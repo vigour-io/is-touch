@@ -16,5 +16,5 @@
 <!-- VDOC END -->
 
 ```javascript
-var isTouch = require('is-touch') // false unless you're using a touch-enabled device
+const isTouch = require('is-touch') // false unless you're using a touch-enabled device
 ```
