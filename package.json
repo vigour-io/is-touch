@@ -29,7 +29,6 @@
     "Shawn Inder <shawn@vigour.io>"
   ],
   "dependencies": {
-    "bubleify": "^0.5.1",
     "is-node": "^1.0.2"
   },
   "engines": {},
@@ -42,10 +41,5 @@
     "standard": "^8.1.0",
     "tape": "4.4.0",
     "tap-difflet": "0.6.0"
-  },
-  "browserify": {
-    "transform": [
-      "bubleify"
-    ]
   }
 }
