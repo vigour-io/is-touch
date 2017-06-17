@@ -29,7 +29,8 @@
     "Shawn Inder <shawn@vigour.io>"
   ],
   "dependencies": {
-    "bubleify": "^0.5.1"
+    "bubleify": "^0.5.1",
+    "is-node": "^1.0.2"
   },
   "engines": {},
   "devDependencies": {
